@@ -1,5 +1,5 @@
 ## fork from [Practicalli Spacemacs (develop) configuration](https://github.com/practicalli/spacemacs.d)
-This GitHub repository contains my version of the current configuration to support the [Practicalli Spacemacs book](https://practicalli.github.io/spacemacs).  It contains the layers recommended for use for enhanced Clojure development experience as well as numerous tweaks for general [Spacemacs](https://github.com/syl20bnr/spacemacs/) usage.  
+This GitHub repository contains my version of the current configuration to support the excellent [Practicalli Spacemacs book](https://practicalli.github.io/spacemacs).  This configuration contains the layers recommended for use for enhanced Clojure development experience as well as numerous tweaks for general [Spacemacs](https://github.com/syl20bnr/spacemacs/) usage. So-far my modifications involve simply removing a lot of enhancements that I haven't learned how to use yet.
 
 ### Requirements: Spacemacs Develop, Emacs 27 
 
