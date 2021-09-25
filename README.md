@@ -24,5 +24,5 @@ The recommended approach is to use a diff tool, such as `ediff` in Emacs, `SPC D
 The file `.spacemacs.d/init.el` is read by Spacemacs if the `.spacemacs` file does not exist.  You can used either file as your main Spacemacs configuration file (but obviously not both at the same time).  In this repository, the `.spacemacs` file is a symbolic link to `.spacemacs/init.el`.
 
 ## Getting help
-Obviously the best place to start looking for help is the [Practicalli repo] (https://github.com/practicalli/spacemacs.d)] or the [Practicalli Book](https://practicalli.github.io/spacemacs).
+Obviously the best place to start looking for help is the [Practicalli repo](https://github.com/practicalli/spacemacs.d)] or the [Practicalli Book](https://practicalli.github.io/spacemacs).
 
